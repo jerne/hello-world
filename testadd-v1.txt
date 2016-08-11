@@ -1,2 +1,4 @@
 This is an addition in the new file
 
+En hier is dan een wijziging op de bestaande file die al gewijzigd is door de hotfix
+
