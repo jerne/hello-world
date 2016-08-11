@@ -2,4 +2,5 @@ This is an addition in the new file
 
 We also have a special addition here for the hot fix
 
+En hier is dan een wijziging op de bestaande file die al gewijzigd is door de hotfix
 
